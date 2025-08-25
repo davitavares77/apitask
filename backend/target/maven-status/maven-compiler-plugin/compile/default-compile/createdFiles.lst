@@ -1,0 +1,3 @@
+com\rev\revisao\controller\TaskController.class
+com\rev\revisao\repository\TaskRepository.class
+com\rev\revisao\model\Task.class
